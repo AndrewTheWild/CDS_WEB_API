@@ -4,7 +4,7 @@
 1. Create entity
 2. Delete Entity
 3. Update Entity
-4. Retrieve Entity and Retri
+4. Retrieve Entity and Retrive All record of entity
 
 
 
