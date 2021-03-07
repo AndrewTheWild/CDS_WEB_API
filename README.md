@@ -1,1 +1,2 @@
-# CDS_WEB_API
+# Connection
+Use Azure Active Directory, that connect to CDS (Common Data Service) 
