@@ -11,6 +11,7 @@ namespace CDS
     {
         static void Main(string[] args)
         {
+            //Example
             var credential=JObject.Parse(File.ReadAllText(@"Credential.json")); 
             var clientAzure = new ClientAzureAuth(
                 (string)credential["serviceUrl"], 
